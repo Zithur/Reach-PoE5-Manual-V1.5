@@ -1,0 +1,7 @@
+site_name: PoE5 Tester Manual 1.5
+
+theme: readthedocs
+
+nav:
+    - Home: index.md
+    - PoE5: Reach PoE5 Manual V1_5.md

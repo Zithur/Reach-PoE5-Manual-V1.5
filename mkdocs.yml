@@ -4,4 +4,6 @@ theme: readthedocs
 
 nav:
     - Home: index.md
-    - PoE5: Reach PoE5 Manual V1_5.md
+    - Revision Hisory: Reach PoE5 Manual V1_5.md
+        - RT-PoE5 Base Model:
+        - RT-PoE5 Variations:

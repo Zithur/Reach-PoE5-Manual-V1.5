@@ -1,0 +1,54 @@
+site_name: PoE5 Tester Manual 1.5
+
+theme: readthedocs
+
+nav:
+    - Home: index.md
+    - Revision History:
+        - RT-PoE5 Base Model: PoE5_Base_Model.md
+        - RT-PoE5 Variations: PoE5_Variations.md
+    - General: 
+        - Overview: Overview.md
+        - Front Panel: Front_panel.md
+        - Features: Features.md
+        - Dimensions: Dimensions.md
+        - Electrical Characteristics: Electrical_Characteristics.md
+        - Environmental: Environmental.md
+        - Warranty: Warranty.md
+        - Operating Software: Operating_Software.md
+        - Calibration: Calibration.md
+    - Configuration Guide:
+        - Power: Power.md
+        - Serial Console: Serial Console.md
+        - UUT Connections: UUT Connections.md
+    - Connectors and Jumpers:
+        - RJ-45 Ethernet Connectors: RJ.md
+        - Rear Connectors: Rear Connectors.md
+        - Ethernet Power Selection: Ethernet Power Selection.md
+    - Operational Overview:
+        - Data Path: Data path.md
+        - Power Input: Power input.md
+        - Signature, Class, and Load: Signature.md
+        - Dual/Single Signature Modes: Dual.md
+        - Fans: Fans.md
+        - RJ45 LED's: RJ45 LEDs.md
+    - Ethernet Cables: Ethernet Cables.md
+    - Command Reference: Command Reference.md
+    - Appendix A - Operational Notes:
+        - Power-On: PowerOn.md
+        - Error Messages: Error messages.md
+        - Inrush Example Waveform: Inrush Example Waveform.md
+    - Appendix B - Test Setups:
+        - Overview: OverviewB.md
+        - Signature Detect: Signature Detect.md
+        - Class Detect - Dual Signature Mode: Class Detect Dual.md
+        - Class Detect - Single Signature Mode: Class Detect Single.md
+        - Power Status and Overload (IEEE 802.3af): Power Status and overload (IEEE 802.3af).md
+        - Power Status and Overload (IEEE 802.3at): Power Status and overload (IEEE 802.3at).md
+        - Power Status and Overload (IEEE 802.3bt - Single Signature): Power Status and overload (IEEE 802.3bt, single signature).md
+        - Power Status and Overload (IEEE 802.3bt - Dual Signature): Power Status and overload (IEEE 802.3bt, dual signature).md
+        - Data Transmission Under Power: Data transmission under power.md
+    - Appendix C - Specifications:
+        - Measurement Specifictions: Measurement Specifications.md
+        - Limits: Limits.md
+    - Appendix D - Manual Change History: Appendix D.md
